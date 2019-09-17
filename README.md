@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my humens site!!!
 
-You can use the [editor on GitHub](https://github.com/yagyaxt1068/legendary-broccoli/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yagyaxt1068/legendary-broccoli/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This site is your go-to location for the research assignment I have to do.
+# _Homo sapiens_ introduction
+_Homo sapiens_ are a _sapient_ species. Sapient means wise. They are the only species of the _homo_ genus to still be alive. The other ones were too dumb, so either they became _homo sapiens_ too, or they died. I won't cover the species that died, because they don't matter. Instead, I will come to matters of importance.
+# Genotypes and phenotypes
+_Genotypes_ are genetic differences between organisms that have a different result, while _phenotypes_ are the **\*visual\*** result of genotypes.
+If you are a human (tip: if you're not sure if you are one, chances are that if you're reading this, you're a human! Yay!), then you have seen the visual variation between different people. This is all because of phenotypes. I will give some examples below.
+## North Asia-Native American
