@@ -7,3 +7,4 @@ _Homo sapiens_ are a _sapient_ species. Sapient means wise. They are the only sp
 _Genotypes_ are genetic differences between organisms that have a different result, while _phenotypes_ are the **\*visual\*** result of genotypes.
 If you are a human (tip: if you're not sure if you are one, chances are that if you're reading this, you're a human! Yay!), then you have seen the visual variation between different people. This is all because of phenotypes. I will give some examples below.
 ## North Asia-Native American
+In this section, I will be discussing the _Pacifid_, _Silvid_\ _Eskimid\_, Turanid_ and other suc\h phenotypes\\.
