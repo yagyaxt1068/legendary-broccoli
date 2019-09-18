@@ -10,5 +10,5 @@ If you are a human (tip: if you're not sure if you are one, chances are that if 
 In this section, I will be discussing the _Pacifid_, _Silvid_ _Eskimid_, _Turanid_ and other such phenotypes.
 These phenotypes are found in similar climates, and as such have certain similarities.
 For one, they have squinty eyes. This helps vision stay consistent during snowstorms. (If you're _Europid_, _Mediterranid_, _Afrid_, _Orientalid_, _Indid_ or any other one of those other ones, you know how it is.) They also tend to be short, which also helps when going through snow. (Smaller, lighter animals get around in snowstorms easier.) They are usually found in the Arctic regions or mountains.
-## Europid/Nordid/Mediterranid
-
+## Europe, Middle East and South Asia
+I have grouped these phenotypes into one group as they have certain similarities. They all have more visible eyes, and with the exception of some Indids, have taller heights (mostly in the temperate zones.) They tend to be thinner, as in hot environments, too much fat only makes one more warm.
