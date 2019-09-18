@@ -9,4 +9,6 @@ If you are a human (tip: if you're not sure if you are one, chances are that if 
 ## North Asia-Native American
 In this section, I will be discussing the _Pacifid_, _Silvid_ _Eskimid_, _Turanid_ and other such phenotypes.
 These phenotypes are found in similar climates, and as such have certain similarities.
-For one, they have squinty eyes. This helps vision stay consistent during snowstorms. (If you're _Europid_, _Mediterranid_, _Afrid_, _Orientalid_, _Indid_ or any other one of those other ones, you know how it is.) They also tend to be short, which also helps in navigating.
+For one, they have squinty eyes. This helps vision stay consistent during snowstorms. (If you're _Europid_, _Mediterranid_, _Afrid_, _Orientalid_, _Indid_ or any other one of those other ones, you know how it is.) They also tend to be short, which also helps when going through snow. (Smaller, lighter animals get around in snowstorms easier.) They are usually found in the Arctic regions or mountains.
+## Europid/Nordid/Mediterranid
+
