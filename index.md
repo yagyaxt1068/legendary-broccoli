@@ -18,6 +18,6 @@ I have grouped these phenotypes into one group as they have certain similarities
 Africa has many phenotypes, each with its own unique features, specifically suited to the region they reside in. This is because humans in Africa have had a longer time to evolve than rest of the humans who spread into Eurasia and the Americas. They all have dark skin (owing to the fact they reside in a hot environment), usually short, curly hair (long, curly hair generates more heat), and tall bodies (lots of game in Africa).
 
 # Human history
-THis section is a stub. You can help me by [expanding this](https://prose.io/#yagyaxt1068/legendary-broccoli/edit/master/index.md).
+THis section is a stub. You can help me by [expanding it](https://prose.io/#yagyaxt1068/legendary-broccoli/edit/master/index.md).
 # Conclusion
 ![alt-text](https://imgs.xkcd.com/comics/thesis_defense.png "MY RESULTS ARE A SIGNIFICANT IMPROVEMENT ON THE STATE OF THE AAAAAAAAAAAART")
