@@ -18,6 +18,22 @@ I have grouped these phenotypes into one group as they have certain similarities
 Africa has many phenotypes, each with its own unique features, specifically suited to the region they reside in. This is because humans in Africa have had a longer time to evolve than rest of the humans who spread into Eurasia and the Americas. They all have dark skin (owing to the fact they reside in a hot environment), usually short, curly hair (long, curly hair generates more heat), and tall bodies (lots of game in Africa).
 
 # Human history
-This section is a stub. You can help me by [expanding it](https://prose.io/#yagyaxt1068/legendary-broccoli/edit/master/index.md).
+Okay, time for a (very) brief history of humans! (Human history is so darn big.)
+First, humans were just your ordinary primates. Homonids (members of the _homo_ genus) began to split off from other primates around 4 million years ago. Early homonids lived in trees, but as the savannah grew larger, they then began to adapt to ground life. After millions of years, competition for resources grew, and with the development of language around 50,000 years ago, humans were able to communicate plans and spread out of the African continent into other landmasses. An emigration map is embedded below (from Khan Academy).
+![alt-text](https://cdn.kastatic.org/ka-perseus-images/a0d4706bce10c7dfafd929e757aa7b6b70a059a6.png "A map of human emigration.")
+Eventually, humans developed the foundations for modern society. The invention of agriculture freed up time that was initially spent on hunting and gathering, so they came up with new ways to pass their time, including creating art and music, pondering the universe, creating societal roles for every human, building machines and computers to aid in their pursuits, and even studying their own origins (source: me).
+# Future
+```
+The future of humans is a very difficult domain. The changes they made to the 
+environment threaten their very own existence. However, there is a hope. Computers.
+
+You can stop laughing now.
+It's true. If we work towards it, our consciousnesses can be integrated into computers.
+This will help extend our lifespans and get rid of current needs.
+However, this raises a question of ethics.
+Will we maintain some human urges? Will we abandon them all?
+
+Only time will tell.
+```
 # Conclusion
 ![alt-text](https://imgs.xkcd.com/comics/thesis_defense.png "MY RESULTS ARE A SIGNIFICANT IMPROVEMENT ON THE STATE OF THE AAAAAAAAAAAART")
