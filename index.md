@@ -1,4 +1,4 @@
-## Welcome to my humens site!!!
+## Welcome to my human site!!!
 
 This site is your go-to location for the research assignment I have to do.
 # _Homo sapiens_ introduction
