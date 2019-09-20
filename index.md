@@ -23,12 +23,12 @@ First, humans were just your ordinary primates. Homonids (members of the _homo_ 
 ![alt-text](https://cdn.kastatic.org/ka-perseus-images/a0d4706bce10c7dfafd929e757aa7b6b70a059a6.png "A map of human emigration.")
 Eventually, humans developed the foundations for modern society. The invention of agriculture freed up time that was initially spent on hunting and gathering, so they came up with new ways to pass their time, including creating art and music, pondering the universe, creating societal roles for every human, building machines and computers to aid in their pursuits, and even studying their own origins (source: me).
 # Future
-```
+```markdown
 The future of humans is a very difficult domain. The changes they made to the 
 environment threaten their very own existence. However, there is a hope. Computers.
 
 You can stop laughing now.
-It's true. If we work towards it, our consciousnesses can be integrated into computers.
+It is true. If we work towards it, our consciousnesses can be integrated into computers.
 This will help extend our lifespans and get rid of current needs.
 However, this raises a question of ethics.
 Will we maintain some human urges? Will we abandon them all?
