@@ -48,15 +48,11 @@ Despite the name, the Immigration Act, 1976 was put into effect two years later,
 
 ## Singh Decision (1986)
 
-```markdown
-Coming soon!
-```
+Once refugees were opened up as an immigrant class, however, the application process was very hard to do, and 7 people of Indian origin were denied their applications, stating that they did not meet the requirements. However, they did not specify the reasons or provide the opportunity to appeal. The case made it to the Supreme Court as _Singh v. Minister of Employment and Immigration_. The appellants argued that refusing their applications was a breach of Section 7 (the rights to life, liberty and security). In the end, they won the case. This allowed for refugees to be protected throughout their application process.
 
 ## Immigration and Refugee Protection Act, 2002
  
-```markdown
- Coming soon!
-```
+The IRPA was enacted in 2002 and updated the legislation regarding immigration, with a special focus on refugees. As part of it, a simplified refugee appeal process was proposed. 
 
 # Part 2: History of Canadian immigration
 
