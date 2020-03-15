@@ -52,8 +52,9 @@ Once refugees were opened up as an immigrant class, however, the application pro
 
 ## Immigration and Refugee Protection Act, 2002
  
-The IRPA was enacted in 2002 and updated the legislation regarding immigration, with a special focus on refugees. As part of it, a simplified refugee appeal process was proposed. 
+The IRPA was enacted in 2002 and updated the legislation regarding immigration, with a special focus on refugees. As part of it, a simplified refugee appeal process was proposed to help alleviate the load on the courts caused by the Singh decision. However, it hasn't been fully implemented.
 
 # Part 2: History of Canadian immigration
 
 ![image](https://imgs.xkcd.com/comics/five_minute_comics_part_4.png)
+
