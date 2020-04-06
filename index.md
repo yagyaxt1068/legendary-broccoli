@@ -60,7 +60,7 @@ Despite the name, the Immigration Act, 1976 was put into effect two years later,
 
 ## Singh Decision (1986)
 
-![alt text]( "")
+![alt text](https://lh3.googleusercontent.com/proxy/EafhInn00sOFx56diOpi2req2h2tQ2a2-FWLvUzCJZkpBPP0aifm6HzCbcpm3n0oMM6mv4PuGaLkHy1VDjudJ_HdiLkndwl2mGJ7dmUTTO1CwbeFT9jjgy4ossnkSeClDZ2ktc9B "An image for Refugee Rights Day 2018.")
 
 Once refugees were opened up as an immigrant class, however, the application process was very hard to do, and 7 people of Indian origin were denied their applications, stating that they did not meet the requirements. However, they did not specify the reasons or provide the opportunity to appeal. The case made it to the Supreme Court as _Singh v. Minister of Employment and Immigration_. The appellants argued that refusing their applications was a breach of Section 7 (the rights to life, liberty and security). In the end, they won the case. This allowed for refugees to be protected throughout their application process.
 
@@ -74,26 +74,36 @@ The [IRPA](https://laws-lois.justice.gc.ca/eng/acts/I-2.5/FullText.html) was ena
 
 To start off, I am going to make one clarification of the title. Europeans had a habit of going to an unknown place and slapping the title 'India' on it, so to avoid confusion with First Nations, Native Americans, and other natives of the North and South American continents, I will refer to these people (of which I am a part of) as Indians and the natives as their respective proper names.
 
-## History in Canada
+## History of immigration in Canada
 
-### Under British Raj (pre-1947)
-
-![alt text]( "")
+### Pre-1947
 
 Indians were often employed as British soldiers both before and after the 1857 revolt, and as such, found their way to other British territories. The closest Canadian territory was British Columbia, so naturally a lot of Indians arrived there, as Port Moody and Port Vancouver were their main ports of entry. Most were Punjabis, for reasons I have yet to discover. This resulted in a large Punjabi community in the area, concentrated in the areas of Delta and Surrey. They made their own businesses (something I can say myself, since I have Punjabi heritage.). However, they faced some obstacles. One of them, in a way similar to the Chinese head tax, was that they had to have 200 Canadian dollars with them when they arrived, which made it hard for some to arrive because it was hard to get that much currency converted. Another issue in arrivals is that their journeys had to be nonstop for them to arrive. In an era before airplanes, this was understandably quite hard to do. The Canadian government knew what they were doing, which was to keep non-European settlers out as much as possible.
 
-### Republic of India (post-1947)
+### Post-1947
 
-![alt text]( "")
+When India gained independence from the British Empire and the Republic of India was formed, India was more forceful in their negotiations. For example, for a time, they did not allow any foreign publications or periodicals (magazines, newspapers, journals) in the country. Another side effect of the independence was the Indian government recognizing the troubles of people immigrating into Canada. This, combined with an increase in North American counterculture, prompted the easing of restrictions. Since air travel was mainstream, many people arrived by air, and that resulted in huge Indian immigration into Toronto in the 60s and 70s, creating the Little India region of the city. Eventually, Indians migrated to other places in Canada, one of those places being Edmonton.
 
-When India gained independence from the Empire and the Republic of India was formed, India was more forceful in their negotiations. For example, for a time, they did not allow any foreign publications or periodicals (magazines, newspapers, journals) in the country. Another side effect of the independence was the Indian government recognizing the troubles of people immigrating into Canada. This, combined with an increase in North American counterculture, prompted the easing of restrictions. Since air travel was mainstream, many people arrived by air, and that resulted in huge Indian immigration into Toronto, creating the Little India region of the city.
+## How they made their mark
 
-## History in Alberta
+Refugee Rights Day, celebrated every year on April 4 (yesterday as of the time of writing), is the anniversary of the Singh decision, a case that was started by, you guessed it, Indians.
 
-![alt text]( "")
+### In Canada
 
-The rise of the Indian community in Alberta was slow at first, but picked up as Indians began migrating into all parts of Canada. This was recognized as Calgary and Jaipur became connected under the Sister Cities initiative.
+Punjabi is the most commonly spoken language in Canada after English and French, and there are two major concentrations of Indians in Canada: the Lower Mainland area in BC (where I used to live) and the Greater Toronto Area. Both of these areas have a large number of Indians, especially Punjabis.
 
-## History in Edmonton
+### In Alberta
 
-![alt text](https://imgs.xkcd.com/comics/five_minute_comics_part_4.png)
+Alberta is the area with the third largest number of Indians in Canada. Calgary and Jaipur became sister cities in 1973, further strengthening the relation of the regions. Calgary has a large Indian community and Calgary's mayor, Naheed Nenshi, is Gujarati himself.
+
+### In Edmonton
+
+Southeast Edmonton has a large concentration of Indian people. The Mill Woods area is home to many Punjabis, and surrounding areas like The Meadows and Ellerslie have a large population of them as well. In fact, a significant portion of students in our own class have Indian heritage or some connection to India. There are a few Indian communities in Edmonton, with some of them for Sikhs:
+
+## Indian communities in Edmonton
+
+### Council of India Societies of Edmonton (CISE)
+
+The CISE was created in 1976 to represent Indians in Edmonton, as the Indian community was beginning to grow. It functions as a community centre, as well as a place for members of various Indian societies in the city to meet.
+
+#### Gurdwara Sri Guru Singh Sahib
