@@ -107,3 +107,5 @@ Southeast Edmonton has a large concentration of Indian people. The Mill Woods ar
 The CISE was created in 1976 to represent Indians in Edmonton, as the Indian community was beginning to grow. It functions as a community centre, as well as a place for members of various Indian societies in the city to meet.
 
 #### Gurdwara Sri Guru Singh Sahib
+
+Gurdwara Sri Guru Singh Sabha was founded in 1977, originating from a group of Sikh teachers and students at the University of Alberta who congregated regularly at the Jubilee Auditorium. They have had a few other locations in the past before settling in their current location in Pollard Meadows.
